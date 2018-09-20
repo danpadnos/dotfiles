@@ -1,8 +1,8 @@
 [user]
 	# Name used in commit messages.
-	name = Barak Peleg
+	name = Dan Padnos
 	# Email used in commit messages.
-	email = pelegb@gmail.com
+	email = danpadnos@gmail.com
 [github]
 	# GitHub username for command-line tools.
-	user = pelegb
+	user = danpadnos
