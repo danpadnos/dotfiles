@@ -15,3 +15,6 @@ export HISTIGNORE="&:ls:[bf]g:exit"
 
 # Aliases
 alias ll='ls -lG'
+
+# use a matplotlib backend suitable for OSX
+export MPLBACKEND="TkAgg"
